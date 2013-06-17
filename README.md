@@ -1,4 +1,6 @@
-beginners
+Welcome!
 =========
 
-Never programmed before? Start here!
+Hey there, thanks for showing up to CoderDojo!
+
+Never programmed before? Start [here](http://coderdojosf.github.io/beginners).
